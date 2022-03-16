@@ -1,1 +1,1 @@
-# intership-1
+# internship-1
